@@ -62,3 +62,5 @@ If you lose the password, the encrypted file cannot be recovered.
 
 ## OUTPUT 
 
+<img width="797" height="514" alt="Image" src="https://github.com/user-attachments/assets/105a6259-8adc-4032-b3ec-e1337e3b8381" />
+
